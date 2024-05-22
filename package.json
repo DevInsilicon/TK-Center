@@ -1,0 +1,22 @@
+{
+  "name": "tk-center",
+  "version": "1.0.0",
+  "description": "A simple tool for adjusting fan, and RGB settings, additionally allows you to view system data quickly and efficently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevInsilicon/TK-Center.git"
+  },
+  "author": "Insilicon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DevInsilicon/TK-Center/issues"
+  },
+  "homepage": "https://github.com/DevInsilicon/TK-Center#readme",
+  "dependencies": {
+    "electron": "^30.0.6"
+  }
+}
